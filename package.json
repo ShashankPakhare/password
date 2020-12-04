@@ -16,5 +16,14 @@
   "description": "sjjjasl",
   "main": "app.js",
   "author": "shashank",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashankPakhare/password.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShashankPakhare/password/issues"
+  },
+  "homepage": "https://github.com/ShashankPakhare/password#readme"
 }
